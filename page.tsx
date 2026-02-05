@@ -22,6 +22,7 @@ export default function Home() {
         
       </ul>
        <Link href="https://github.com/" target="_blank" id={styles.speicalLink}>GitHub</Link>
+       <Link href="https://github.com/" target="_blank" id={styles.speicalLink}>Google</Link>
 
 
      </>
