@@ -1,0 +1,11 @@
+.link {
+    color: rgb(228, 2, 2);
+}
+
+.link:hover {
+    color: rgb(106, 0, 255);
+}
+#speical-link {
+    
+    color: blue;
+}
