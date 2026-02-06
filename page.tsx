@@ -23,7 +23,19 @@ export default function Home() {
       </ul>
        <Link href="https://github.com/" target="_blank" id={styles.speicalLink}>GitHub</Link>
        <Link href="https://github.com/" target="_blank" id={styles.speicalLink}>Google</Link>
+        <p>
+        This is a simple Next.js application that demonstrates
+         the use of routing and styling. You can navigate to dif
+         ferent pages using the links above, and each page will 
+         display its own content. The GitHub link will take you to the 
+         GitHub website in a
+         new tab. Enjoy exploring the app!
 
+         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum bea
+         tae voluptatem adipisci vero nobis, optio ducimus, accusantium inven#
+         tore consectetur qui, iure
+          veniam sint? A nisi in magnam, quibusdam sapiente ullam?
+        </p>
 
      </>
 
